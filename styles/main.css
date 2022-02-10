@@ -14,6 +14,10 @@ body {
     background-color: white;
 }
 
+body p{
+    margin: 1em;
+}
+
 header{
     background-color: green;
     color: white;
